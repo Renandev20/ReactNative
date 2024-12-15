@@ -1,18 +1,4 @@
-<h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
-</h1>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
-
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
-</p>
 
 ## ✨ Tecnologias
 
@@ -37,23 +23,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie seu app com `expo start`
 - Inicie a fake api com `json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700`. Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
