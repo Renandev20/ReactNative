@@ -12,9 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
